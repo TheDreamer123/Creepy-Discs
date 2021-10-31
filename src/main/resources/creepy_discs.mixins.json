@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dreamer.discs.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "ArmorItemMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

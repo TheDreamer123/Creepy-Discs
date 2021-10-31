@@ -1,0 +1,254 @@
+{
+   "music_disc.cave1":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave1"
+      ]
+   },
+   "music_disc.cave2":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave2"
+      ]
+   },
+   "music_disc.cave3":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave3"
+      ]
+   },
+   "music_disc.cave4":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave4"
+      ]
+   },
+   "music_disc.cave5":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave5"
+      ]
+   },
+   "music_disc.cave6":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave6"
+      ]
+   },
+   "music_disc.cave7":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave7"
+      ]
+   },
+   "music_disc.cave8":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave8"
+      ]
+   },
+   "music_disc.cave9":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave9"
+      ]
+   },
+   "music_disc.cave10":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave10"
+      ]
+   },
+   "music_disc.cave11":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave11"
+      ]
+   },
+   "music_disc.cave12":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave12"
+      ]
+   },
+   "music_disc.cave13":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave13"
+      ]
+   },
+   "music_disc.cave14":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave14"
+      ]
+   },
+   "music_disc.cave15":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave15"
+      ]
+   },
+   "music_disc.cave16":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave16"
+      ]
+   },
+   "music_disc.cave17":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave17"
+      ]
+   },
+   "music_disc.cave18":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave18"
+      ]
+   },
+   "music_disc.cave19":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/cave/cave19"
+      ]
+   },
+   "music_disc.underwater1":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/animal1"
+      ]
+   },
+   "music_disc.underwater2":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/animal2"
+      ]
+   },
+   "music_disc.underwater3":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/bass_whale1"
+      ]
+   },
+   "music_disc.underwater4":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/bass_whale2"
+      ]
+   },
+   "music_disc.underwater5":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/crackles1"
+      ]
+   },
+   "music_disc.underwater6":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/crackles2"
+      ]
+   },
+   "music_disc.underwater7":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/dark1"
+      ]
+   },
+   "music_disc.underwater8":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/dark2"
+      ]
+   },
+   "music_disc.underwater9":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/dark3"
+      ]
+   },
+   "music_disc.underwater10":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/dark4"
+      ]
+   },
+   "music_disc.underwater11":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "ambient/underwater/additions/earth_crack"
+      ]
+   },
+   "music_disc.nether1":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/basalt_deltas"
+      ]
+   },
+   "music_disc.nether2":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/crimson_forest"
+      ]
+   },
+   "music_disc.nether3":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/nether_wastes"
+      ]
+   },
+   "music_disc.nether4":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/soul_sand_valley"
+      ]
+   },
+   "music_disc.nether5":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/warped_forest"
+      ]
+   },
+   "music_disc.summoning_of_satan":{
+      "replace":true,
+      "subtitle": "creepy_discs.subtitles.run_away",
+      "sounds":[
+         "creepy_discs:mixes/summoning_of_satan"
+      ]
+   }
+}
