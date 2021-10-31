@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "addition": {
+    "tag": "creepy_discs:cd_discs"
+  },
+  "result": {
+    "item": "creepy_discs:nightmare_fuel"
+  }
+}

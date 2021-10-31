@@ -1,0 +1,53 @@
+{
+  "parent": "creepy_discs:nightmare_with_no_escape",
+  "display": {
+    "icon": {
+      "item": "creepy_discs:nightmare_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "text": "Surrounded by Bad Dreams"
+    },
+    "description": {
+      "text": "From shiny, to infernal, to satanic..... armor is evolving quickly"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nightmare_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "creepy_discs:nightmare_helmet"
+            ]
+          },
+          {
+            "items": [
+              "creepy_discs:nightmare_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "creepy_discs:nightmare_leggings"
+            ]
+          },
+          {
+            "items": [
+              "creepy_discs:nightmare_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "nightmare_armor"
+    ]
+  ]
+}

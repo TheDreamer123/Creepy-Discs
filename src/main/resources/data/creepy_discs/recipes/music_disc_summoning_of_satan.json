@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "creepy_discs:disc_chunk1"
+        },
+        {
+            "item": "creepy_discs:disc_chunk2"
+        },
+        {
+            "item": "creepy_discs:disc_chunk3"
+        },
+        {
+            "item": "creepy_discs:disc_chunk4"
+        }
+    ],
+    "result": {
+        "item": "creepy_discs:music_disc_summoning_of_satan",
+        "count": 1
+    }
+}

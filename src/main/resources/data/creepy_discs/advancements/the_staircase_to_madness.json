@@ -1,0 +1,37 @@
+{
+  "parent": "creepy_discs:collection_of_horror",
+  "display": {
+    "icon": {
+      "item": "creepy_discs:music_disc_summoning_of_satan"
+    },
+    "title": {
+      "text": "The Staircase to Madness"
+    },
+    "description": {
+      "text": "Combine each cursed disc plus disc 11 to create a disc worthy of claiming Satan's thrown"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "summoning": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "creepy_discs:music_disc_summoning_of_satan"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "summoning"
+    ]
+  ]
+}

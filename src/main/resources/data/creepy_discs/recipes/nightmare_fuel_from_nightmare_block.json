@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "creepy_discs:nightmare_block"
+    }
+  ],
+  "result": {
+    "item": "creepy_discs:nightmare_fuel",
+    "count": 9
+  }
+}

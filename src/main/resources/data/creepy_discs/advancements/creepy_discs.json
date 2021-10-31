@@ -1,0 +1,71 @@
+{
+  "display": {
+    "icon": {
+      "item": "creepy_discs:music_disc_cave1"
+    },
+    "title": {
+      "text": "Creepy Discs"
+    },
+    "description": {
+      "text": "Begin your creepy adventure by getting your hands on a disc that would not let you sleep at night"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "creepy_discs:textures/block/nightmare_block.png"
+  },
+  "criteria": {
+    "first_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "creepy_discs:music_disc_cave1",
+   			  "creepy_discs:music_disc_cave2",
+			  "creepy_discs:music_disc_cave3",
+			  "creepy_discs:music_disc_cave4",
+			  "creepy_discs:music_disc_cave5",
+			  "creepy_discs:music_disc_cave6",
+			  "creepy_discs:music_disc_cave7",
+		  	  "creepy_discs:music_disc_cave8",
+			  "creepy_discs:music_disc_cave9",
+			  "creepy_discs:music_disc_cave10",
+			  "creepy_discs:music_disc_cave11",
+			  "creepy_discs:music_disc_cave12",
+			  "creepy_discs:music_disc_cave13",
+			  "creepy_discs:music_disc_cave14",
+			  "creepy_discs:music_disc_cave15",
+			  "creepy_discs:music_disc_cave16",
+			  "creepy_discs:music_disc_cave17",
+			  "creepy_discs:music_disc_cave18",
+			  "creepy_discs:music_disc_cave19",
+			  "creepy_discs:music_disc_underwater1",
+			  "creepy_discs:music_disc_underwater2",
+			  "creepy_discs:music_disc_underwater3",
+			  "creepy_discs:music_disc_underwater4",
+			  "creepy_discs:music_disc_underwater5",
+			  "creepy_discs:music_disc_underwater6",
+			  "creepy_discs:music_disc_underwater7",
+			  "creepy_discs:music_disc_underwater8",
+			  "creepy_discs:music_disc_underwater9",
+			  "creepy_discs:music_disc_underwater10",
+			  "creepy_discs:music_disc_underwater11",
+			  "creepy_discs:music_disc_nether1",
+			  "creepy_discs:music_disc_nether2",
+			  "creepy_discs:music_disc_nether3",
+			  "creepy_discs:music_disc_nether4",
+			  "creepy_discs:music_disc_nether5"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "first_disc"
+    ]
+  ]
+}
