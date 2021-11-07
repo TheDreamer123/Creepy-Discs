@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "creepy_discs",
+  "version": "${version}",
+
+  "name": "Creepy Discs",
+  "description": "Adds a music disc to every scary sound existing in the game. Also can be merged together into one and used as an upgrade to netherite. Have fun :)",
+  "authors": [
+    "TheDreamer123"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/creepy-discs",
+    "sources": "https://github.com/TheDreamer123/Creepy-Discs/tree/1.17.1",
+    "issues": "https://github.com/TheDreamer123/Creepy-Discs/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/creepy_discs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.dreamer.discs.CreepyDiscsLmao"
+    ]
+  },
+  "mixins": [
+    "creepy_discs.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

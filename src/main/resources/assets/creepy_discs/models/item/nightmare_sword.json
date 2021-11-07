@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "creepy_discs:item/nightmare_sword"
+  }
+}
