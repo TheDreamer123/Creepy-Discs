@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "creepy_discs:nightmare_fuel"
+  },
+  "result": {
+    "item": "creepy_discs:nightmare_chestplate"
+  }
+}

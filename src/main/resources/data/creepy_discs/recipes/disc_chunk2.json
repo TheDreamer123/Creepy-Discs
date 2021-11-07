@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "creepy_discs:music_disc_cave10"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave11"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave12"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave13"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave14"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave15"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave16"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave17"
+        },
+        {
+            "item": "creepy_discs:music_disc_cave18"
+        }
+    ],
+    "result": {
+        "item": "creepy_discs:disc_chunk2",
+        "count": 1
+    }
+}

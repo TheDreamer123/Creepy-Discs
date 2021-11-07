@@ -1,0 +1,477 @@
+{
+   "parent":"creepy_discs:creepy_discs",
+   "display":{
+      "icon":{
+         "item":"creepy_discs:music_disc_underwater1"
+      },
+      "title":{
+         "text":"Collection of Horror"
+      },
+      "description":{
+         "text":"Collect every disc added by this madness. Maybe they could be used for something...."
+      },
+      "frame":"challenge",
+      "show_toast":true,
+      "announce_to_chat":true,
+      "hidden":false
+   },
+   "criteria": {
+      "cave1": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave1"
+               }
+            ]
+         }
+      },
+      "cave2": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave2"
+               }
+            ]
+         }
+      },
+      "cave3": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave3"
+               }
+            ]
+         }
+      },
+      "cave4": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave4"
+               }
+            ]
+         }
+      },
+      "cave5": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave5"
+               }
+            ]
+         }
+      },
+      "cave6": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave6"
+               }
+            ]
+         }
+      },
+      "cave7": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave7"
+               }
+            ]
+         }
+      },
+      "cave8": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave8"
+               }
+            ]
+         }
+      },
+      "cave9": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave9"
+               }
+            ]
+         }
+      },
+      "cave10": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave10"
+               }
+            ]
+         }
+      },
+      "cave11": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave11"
+               }
+            ]
+         }
+      },
+      "cave12": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave12"
+               }
+            ]
+         }
+      },
+      "cave13": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave13"
+               }
+            ]
+         }
+      },
+      "cave14": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave14"
+               }
+            ]
+         }
+      },
+      "cave15": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave15"
+               }
+            ]
+         }
+      },
+      "cave16": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave16"
+               }
+            ]
+         }
+      },
+      "cave17": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave17"
+               }
+            ]
+         }
+      },
+      "cave18": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave18"
+               }
+            ]
+         }
+      },
+      "cave19": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_cave19"
+               }
+            ]
+         }
+      },
+      "underwater1": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater1"
+               }
+            ]
+         }
+      },
+      "underwater2": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater2"
+               }
+            ]
+         }
+      },
+      "underwater3": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater3"
+               }
+            ]
+         }
+      },
+      "underwater4": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater4"
+               }
+            ]
+         }
+      },
+      "underwater5": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater5"
+               }
+            ]
+         }
+      },
+      "underwater6": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater6"
+               }
+            ]
+         }
+      },
+      "underwater7": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater7"
+               }
+            ]
+         }
+      },
+      "underwater8": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater8"
+               }
+            ]
+         }
+      },
+      "underwater9": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater9"
+               }
+            ]
+         }
+      },
+      "underwater10": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater10"
+               }
+            ]
+         }
+      },
+      "underwater11": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_underwater11"
+               }
+            ]
+         }
+      },
+      "nether1": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_nether1"
+               }
+            ]
+         }
+      },
+      "nether2": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_nether2"
+               }
+            ]
+         }
+      },
+      "nether3": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_nether3"
+               }
+            ]
+         }
+      },
+      "nether4": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_nether4"
+               }
+            ]
+         }
+      },
+      "nether5": {
+         "trigger": "minecraft:inventory_changed",
+         "conditions": {
+            "items": [
+               {
+                  "item": "creepy_discs:music_disc_nether5"
+               }
+            ]
+         }
+      }
+   },
+   "requirements":[
+      [
+         "cave1"
+      ],
+      [
+         "cave2"
+      ],
+      [
+         "cave3"
+      ],
+      [
+         "cave4"
+      ],
+      [
+         "cave5"
+      ],
+      [
+         "cave6"
+      ],
+      [
+         "cave7"
+      ],
+      [
+         "cave8"
+      ],
+      [
+         "cave9"
+      ],
+      [
+         "cave10"
+      ],
+      [
+         "cave11"
+      ],
+      [
+         "cave12"
+      ],
+      [
+         "cave13"
+      ],
+      [
+         "cave14"
+      ],
+      [
+         "cave15"
+      ],
+      [
+         "cave16"
+      ],
+      [
+         "cave17"
+      ],
+      [
+         "cave18"
+      ],
+      [
+         "cave19"
+      ],
+      [
+         "underwater1"
+      ],
+      [
+         "underwater2"
+      ],
+      [
+         "underwater3"
+      ],
+      [
+         "underwater4"
+      ],
+      [
+         "underwater5"
+      ],
+      [
+         "underwater6"
+      ],
+      [
+         "underwater7"
+      ],
+      [
+         "underwater8"
+      ],
+      [
+         "underwater9"
+      ],
+      [
+         "underwater10"
+      ],
+      [
+         "underwater11"
+      ],
+      [
+         "nether1"
+      ],
+      [
+         "nether2"
+      ],
+      [
+         "nether3"
+      ],
+      [
+         "nether4"
+      ],
+      [
+         "nether5"
+      ]
+   ]
+}

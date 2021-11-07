@@ -1,0 +1,35 @@
+{
+  "display":{
+    "icon":{
+      "item":"creepy_discs:music_disc_cave1"
+    },
+    "title":{
+      "text":"Creepy Discs"
+    },
+    "description":{
+      "text":"Begin your creepy adventure by getting your hands on a disc that would not let you sleep at night"
+    },
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":false,
+    "background":"creepy_discs:textures/block/nightmare_block.png"
+  },
+  "criteria":{
+    "first_disc":{
+      "trigger":"minecraft:inventory_changed",
+      "conditions":{
+        "items":[
+          {
+            "tag":"creepy_discs:cd_discs"
+          }
+        ]
+      }
+    }
+  },
+  "requirements":[
+    [
+      "first_disc"
+    ]
+  ]
+}

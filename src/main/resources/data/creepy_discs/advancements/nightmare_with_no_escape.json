@@ -1,0 +1,35 @@
+{
+  "parent": "creepy_discs:creepy_discs",
+  "display": {
+    "icon": {
+      "item": "creepy_discs:nightmare_fuel"
+    },
+    "title": {
+      "text": "Nightmare With no Escape"
+    },
+    "description": {
+      "text": "Obtain nightmare fuel by combining a netherite ingot with one of Satan's discs"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fuel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "creepy_discs:nightmare_fuel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fuel"
+    ]
+  ]
+}
